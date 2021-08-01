@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://smooth80.github.io/csb-z23ri/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://smooth80.github.io/csb-z23ri/static/js/main.5fd06a14.chunk.js",
+    "main.js.map": "https://smooth80.github.io/csb-z23ri/static/js/main.5fd06a14.chunk.js.map",
+    "runtime-main.js": "https://smooth80.github.io/csb-z23ri/static/js/runtime-main.4ca70bf0.js",
+    "runtime-main.js.map": "https://smooth80.github.io/csb-z23ri/static/js/runtime-main.4ca70bf0.js.map",
+    "static/js/2.5935aa79.chunk.js": "https://smooth80.github.io/csb-z23ri/static/js/2.5935aa79.chunk.js",
+    "static/js/2.5935aa79.chunk.js.map": "https://smooth80.github.io/csb-z23ri/static/js/2.5935aa79.chunk.js.map",
+    "index.html": "https://smooth80.github.io/csb-z23ri/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://smooth80.github.io/csb-z23ri/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.5935aa79.chunk.js.LICENSE.txt": "https://smooth80.github.io/csb-z23ri/static/js/2.5935aa79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ca70bf0.js",
+    "static/js/2.5935aa79.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.5fd06a14.chunk.js"
+  ]
+}
